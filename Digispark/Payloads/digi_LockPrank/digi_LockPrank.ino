@@ -1,3 +1,5 @@
+//This DigiSpark script doesnot gives time to enter your password.
+//Made by me :) ------  BRAINIFII
 
 #define KEY_BACKSPACE 42
 #include "DigiKeyboard.h"
