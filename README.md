@@ -124,3 +124,8 @@ KEY_NUM_9       97
 KEY_NUM_0       98
 KEY_NUM_DOT     99
 ```
+more keys on https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf page No. 53 Table 12
+
+## more keys on
+
+* [Dropwizard](https://www.usb.org/sites/default/files/documents/hut1_12v2.pdf) - Page No. 53, Table 12
