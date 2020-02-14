@@ -2,28 +2,23 @@
 The whole project is is based on Digispark 16.5 mhz (micronucleus) and I make digi programs based on USB rubber ducky payload which will work on any platform.
 Other platform not included yet..
 
-
+```
 MOD_CONTROL_LEFT        Ctrl Left
-
 MOD_SHIFT_LEFT          Shift Left
-
 MOD_ALT_LEFT            Alt Left
-
 MOD_GUI_LEFT            Windows Key
-
 MOD_CONTROL_RIGHT       Ctrl Right
-
 MOD_SHIFT_RIGHT         Shift Right
-
 MOD_ALT_RIGHT           Alt Right
-
 MOD_GUI_RIGHT           ??????(Not on my keyboard)
+```
 
 Type this for WindowsKey + X
 ```
 DigiKeyboard.sendKeyStroke(KEY_X,MOD_GUI_LEFT);
 ```
 
+```
 KEY_A       4
 KEY_B       5
 KEY_C       6
@@ -129,3 +124,4 @@ KEY_NUM_DOT     99
 
 
 KEY_ARROW_LEFT 0x50
+```
