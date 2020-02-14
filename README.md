@@ -18,6 +18,11 @@ Type this for WindowsKey + X
 DigiKeyboard.sendKeyStroke(KEY_X,MOD_GUI_LEFT);
 ```
 
+If you want to Make a custom key input define like this in your code
+
+```
+#define KEY_BACKSPACE 42
+```
 
 Stock library
 ```
@@ -72,12 +77,6 @@ KEY_F12     69
 KEY_ENTER   40
 KEY_SPACE   44
 KEY_ARROW_LEFT 0x50
-
-```
-
-Only for Custom library
-```
-
 KEY_ESCAPE  41
 KEY_BACKSPACE  42
 KEY_TAB     43
